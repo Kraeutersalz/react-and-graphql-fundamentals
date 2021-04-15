@@ -8,7 +8,7 @@ const Logo = styled.h1`
   position: relative;
   z-index: 2;
   background: red;
-  transform: skew(-10deg);
+  transform: skew(-7deg);
   a {
     color: white;
     text-decoration: none;
@@ -25,7 +25,6 @@ const HeaderStyles = styled.header`
     justify-content: space-between;
     align-items: center;
   }
-
   .sub-bar {
     display: grid;
     grid-template-columns: 1fr auto;
